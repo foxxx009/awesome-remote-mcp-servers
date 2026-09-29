@@ -1301,6 +1301,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Firecrawl](https://firecrawl.dev) `https://mcp.firecrawl.dev/v2/mcp`
   [![Firecrawl MCP connector](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp)
   🔓 - Crawl, scrape, and extract structured data from websites.
+- [fitze x402 Tools](https://fitze-x402-seller.app.workbuddy.host) `https://fitze-x402-seller.app.workbuddy.host/mcp`
+  [![fitze x402 Tools MCP connector](https://glama.ai/mcp/connectors/io.github.foxxx009/x402-tools-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foxxx009/x402-tools-mcp)
+  🔓 - Pay-per-call agent tools: web fetch, domain/GitHub/token intel, repo diligence and web briefs, in USDC on Base via x402.
 - [FTIR.fun](https://ftir.fun) `https://ftir.fun/mcp`
   [![FTIR.fun Spectral Search MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.jxbaoxiaodong/ftirfun-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jxbaoxiaodong/ftirfun-mcp)
   🔐 - Analyze FTIR spectra, search spectral libraries, and retrieve peak and literature evidence.
